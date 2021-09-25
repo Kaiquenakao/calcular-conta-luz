@@ -1,8 +1,3 @@
-"""
-    Sistema que calcula o preço aproximadamente da conta da luz (baixa-tensão), através da energia
-    consumida em kWh (quilowatt-hora).
-"""
-
 import PySimpleGUI as sg
 
 
