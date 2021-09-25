@@ -6,3 +6,5 @@ A versão utilizada para desenvolvimento foi Python 3.9.4
 Para rodar o software precisa ter a biblioteca PySimpleGUI, para instalar a biblioteca basta utilizar o seguinte comando no cmd:
 
     pip install PySimpleGUI
+## Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
