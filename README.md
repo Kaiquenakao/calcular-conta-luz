@@ -3,7 +3,7 @@ Sistema que calcula o preço aproximadamente da conta da luz (baixa-tensão), at
 consumida em kWh (quilowatt-hora).<br>
 A versão do Python utilizada para desenvolvimento foi a 3.9.4
 ## Requerimento
-Para rodar o software precisa ter a biblioteca PySimpleGUI, para instalar a biblioteca basta utilizar o seguinte comando no cmd:
+Para rodar o software precisa ter a biblioteca PySimpleGUI instalada, para instalar a biblioteca basta utilizar o seguinte comando no cmd:
 
     pip install PySimpleGUI
 ## Ferramenta
